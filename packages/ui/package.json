@@ -59,7 +59,7 @@
   "dependencies": {
     "@repo/style-tokens": "workspace:*",
     "@uswds/uswds": "3.12.0",
-    "astro": "^5.7.10",
+    "astro": "^5.15.9",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "slugify": "^1.6.6"
